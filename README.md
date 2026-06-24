@@ -1,6 +1,6 @@
 # 🤖 Hey Jarvis — Personal Workspace Launcher
 
-> Say **"Hey Jarvis"** + 👏 clap → your entire workspace opens instantly.
+> Say **"Hey Jarvis"**  → your entire workspace opens instantly.
 
 Inspired by Iron Man's J.A.R.V.I.S., this is a lightweight Python script that runs silently in the background on your Mac. When it hears your wake phrase followed by a clap, it launches all your go-to apps at once — no clicking, no hunting, just voice + clap.
 
